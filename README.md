@@ -7,7 +7,7 @@
   <li>🔭 I am a Fullstack Developer since 2020 </li>
   </ul>
  <hr>
- 
+
 <h2 align="center"> What i use</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -47,3 +47,7 @@
 </a>
 </p>
 <hr>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Christian677&show_icons=true&count_private=true&" alt="Christian677" /></p>
+
+
+
