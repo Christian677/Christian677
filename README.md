@@ -19,7 +19,7 @@
 <img src= https://img.shields.io/badge/REACT-007fff?style=for-the-badge&logo=react&logoColor=white />
 <img src=https://img.shields.io/badge/NEXT.JS-002422?style=for-the-badge&logo=next.js&logoColor=white />
 <img src=https://img.shields.io/badge/EXPRESS-18b300?style=for-the-badge&logo=Express&logoColor=white />
-<img src=https://img.shields.io/badge/MONGODB-18b300?style=for-the-badge&logo=mongodb&logoColor=white />
+<img src=https://img.shields.io/badge/MONGODB-00950a?style=for-the-badge&logo=mongodb&logoColor=white />
 <img src=https://img.shields.io/badge/Angular-ff000d?style=for-the-badge&logo=angular&logoColor=white />
 </p>
 <hr>
@@ -28,7 +28,7 @@
 [**TruthOrDare**](https://t.me/VeritaGame_Bot) - Telegram Bot and Website for the classic truth or dare game. In collaboration with @asse-dot and @Rattlyy.
 <br>**Status**: In progress.
 
-[**A&C**](https://web.telegram.org/k/) - Telegram bot and website for various services.
+[**A&C**](https://web.telegram.org/k/) - Telegram bot and website for various services. In collaboration with @asse-dot.
 <br>**Status**: In pause.
 
 [**ScuolaCountdown**](https://t.me/ScuolaCountdown_bot) - A simple telegram bot made with NodeTGBot to count for what is missing at the end of school.
