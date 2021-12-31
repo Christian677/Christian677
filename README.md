@@ -2,7 +2,7 @@
 
 <hr>
   <ul>
-  <li> 🏡 i live in Como </li>
+  <li> 🏡 i live in Italy </li>
   <li> 🏫 I am a student </li>
   <li>🔭 I am a Fullstack Developer since 2019 </li>
   </ul>
@@ -19,4 +19,7 @@
 <img src=https://img.shields.io/badge/EXPRESS-18b300?style=for-the-badge&logo=Express&logoColor=white />
 <img src= https://img.shields.io/badge/REACT-007fff?style=for-the-badge&logo=react&logoColor=white />
 <img src=https://img.shields.io/badge/NEXT.JS-002422?style=for-the-badge&logo=next.js&logoColor=white />
+<img src=https://img.shields.io/badge/EXPRESS-18b300?style=for-the-badge&logo=Express&logoColor=white />
+<img src=https://img.shields.io/badge/MONGODB-18b300?style=for-the-badge&logo=mongodb&logoColor=white />
+<img src=https://img.shields.io/badge/Angular-ff000d?style=for-the-badge&logo=angular&logoColor=white />
 </p>
