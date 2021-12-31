@@ -4,7 +4,7 @@
   <ul>
   <li> 🏡 i live in Italy </li>
   <li> 🏫 I am a student </li>
-  <li>🔭 I am a Fullstack Developer since 2019 </li>
+  <li>🔭 I am a Fullstack Developer since 2020 </li>
   </ul>
  <hr>
  
@@ -22,4 +22,28 @@
 <img src=https://img.shields.io/badge/EXPRESS-18b300?style=for-the-badge&logo=Express&logoColor=white />
 <img src=https://img.shields.io/badge/MONGODB-18b300?style=for-the-badge&logo=mongodb&logoColor=white />
 <img src=https://img.shields.io/badge/Angular-ff000d?style=for-the-badge&logo=angular&logoColor=white />
+</p>
+<hr>
+<h2 align='center'>My projects</h2>
+
+[**TruthOrDare**](https://t.me/VeritaGame_Bot) - Telegram Bot and Website for the classic truth or dare game. In collaboration with @asse-dot and @Rattlyy.
+<br>**Status**: In progress.
+
+[**A&C**](https://web.telegram.org/k/) - Telegram bot and website for various services.
+<br>**Status**: In pause.
+
+[**ScuolaCountdown**](https://t.me/ScuolaCountdown_bot) - A simple telegram bot made with NodeTGBot to count for what is missing at the end of school.
+<br>**Status**: In pause.
+<hr>
+<h2 align='center'>My contacts</h2>
+<p align='center'>
+<a href="https://t.me/Christian67">
+<img src=https://img.shields.io/badge/Telegram-0033ff?style=for-the-badge&logo=telegram&logoColor=white />
+</a>
+<a href='https://stackoverflow.com/users/17805233/christian677'>
+<img src=https://img.shields.io/badge/STACKOVERFLOW-fc7703?style=for-the-badge&logo=stackoverflow&logoColor=white />
+</a>
+<a href='mailto:christiancontactsit@gmail.com'>
+<img src=https://img.shields.io/badge/EMAIL-eb3434?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
 </p>
