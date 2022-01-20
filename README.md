@@ -28,6 +28,9 @@
 
 [**ScuolaCountdown**](https://t.me/ScuolaCountdown_bot) - A simple telegram bot made with NodeTGBot to count for what is missing at the end of school.
 <br>**Status**: In pause.
+
+[**ChessEngine**](https://t.me/https://google.com) - ??
+<br>**Status**: ?? 
 <hr>
 <h2 align='center'>My contacts</h2>
 <p align='center'>
