@@ -4,7 +4,8 @@
   <ul>
   <li> 🏡 i live in Italy </li>
   <li> 🏫 I am a student </li>
-  <li>🔭 I am a Fullstack Developer since 2020 </li>
+  <li>🔭 I'm learning to become a fullstack developer
+ </li>
   </ul>
  <hr>
 
