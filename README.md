@@ -18,18 +18,7 @@
 <img src=https://img.shields.io/badge/CSS-0025FF?style=for-the-badge&logo=html5&logoColor=white />
 </p>
 <hr>
-<h2 align='center'>My projects</h2>
 
-[**TruthOrDare**](https://t.me/VeritaGame_Bot) - Telegram Bot and Website for the classic truth or dare game. In collaboration with @asse-dot and @Rattlyy.
-<br>**Status**: In progress.
-
-[**A&C**](https://web.telegram.org/k/) - Telegram bot and website for various services. In collaboration with @asse-dot.
-<br>**Status**: In pause.
-
-[**ScuolaCountdown**](https://t.me/ScuolaCountdown_bot) - A simple telegram bot made with NodeTGBot to count for what is missing at the end of school.
-<br>**Status**: In pause.
-
-<hr>
 <h2 align='center'>My contacts</h2>
 <p align='center'>
 <a href="https://t.me/Christian67">
