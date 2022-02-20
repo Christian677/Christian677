@@ -9,7 +9,7 @@
   </ul>
  <hr>
 
-<h2 align="center"> What i use</h2>
+<h2 align="center"> What i use or learning</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
