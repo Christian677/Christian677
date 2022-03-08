@@ -33,6 +33,9 @@
 </p>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Christian677&show_icons=true&count_private=true&" alt="Christian677" /></p>
+<hr>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian677&layout=compact&theme=chartreuse-dark&langs_count=8" /></p>
+
 
 
 
