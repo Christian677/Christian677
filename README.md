@@ -4,7 +4,7 @@
   <ul>
   <li> 🏡 i live in Italy </li>
   <li> 🏫 I am a student </li>
-  <li> 💻 I am a web developer and i am learning software and embedd programming
+  <li> 💻 I am a web developer and i am learning DevOps/ioT programming
  </li>
   </ul>
  <hr>
@@ -12,10 +12,11 @@
 <h2 align="center"> What i use or learning</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-d94c0f?style=for-the-badge&logo=html5&logoColor=orange" />
-<img src=https://img.shields.io/badge/CSS-0025FF?style=for-the-badge&logo=html5&logoColor=white />
+<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white" />
+<img src="https://img.shields.io/badge/c-sharp-purple?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=mysql#&logoColor=white" />
+
+  
 </p>
 <hr>
 
