@@ -24,8 +24,7 @@
 
 <h2 align='center'>My contacts</h2>
 <p align='center'>
-<a href="https://t.me/Christian67">
-<img src=https://img.shields.io/badge/Telegram-0033ff?style=for-the-badge&logo=telegram&logoColor=white/>
+
 </a>
 <a href='https://stackoverflow.com/users/17805233/christian677'>
 <img src=https://img.shields.io/badge/STACKOVERFLOW-fc7703?style=for-the-badge&logo=stackoverflow&logoColor=white />
