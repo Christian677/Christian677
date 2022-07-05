@@ -12,7 +12,7 @@
 <h2 align="center"> What i use or learning</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=aws&logoColor=white" />
 <img src="https://img.shields.io/badge/c-sharp-purple?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=mysql#&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
